@@ -55,16 +55,17 @@ Ingeniero en Sistemas
 CUA, Estado Miranda - 2025
 Desarrollador Full-Stack | Especialista en Bases de Datos y Linux
 
-[ [
-
+_____________________________________________________________________________________________________________________________________________________________
 🎓 Curso Completo: Algoritmos y Pseudocódigo
 Institución: DEV Development
 Ubicación: CUA, Estado Miranda
 Año: 2025
+______________________________________________________________________________________________________________________________________________________________
 
 Certificado completo en fundamentos de programación estructurada. Dominio de lógica algorítmica para resolver problemas computacionales de manera eficiente.
 
 📋 Material Cubierto
+
 1. Básico - Fundamentos de algoritmos.
 
 2. Variables - Declaración y tipos de datos.
