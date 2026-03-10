@@ -42,12 +42,16 @@ TELEFONO :0424-281-44-55
 CORREO : DENNALY88@GMAIL.COM
 INGENIERO EN SISTEMAS 
 *******************************************************
-📚 Cursos de Algoritmos y Pseudocódigo
-Danny José Jiménez Gutiérrez
-Ingeniero en Sistemas
-📞 0424-281-44-55 | ✉️ dennaly88@gmail.com
-CUA, Estado Miranda - 2025
-Desarrollador Full-Stack | Especialista en Bases de Datos y Linux
+<div align="center">
+  
+**DANNY JOSÉ JIMÉNEZ GUTIÉRREZ**  
+_Ingeniero en Sistemas_
+
+[![📞 0424-281-44-55](https://img.shields.io/badge/Phone-0424--281--44--55-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:04242814455)
+[![✉️ dennaly88@gmail.com](https://img.shields.io/badge/Email-dennály88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennaly88@gmail.com)
+
+</div>
+
 
 _____________________________________________________________________________________________________________________________________________________________
 🎓 Curso Completo: Algoritmos y Pseudocódigo
