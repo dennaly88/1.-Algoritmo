@@ -2,8 +2,8 @@
 
 <div align="center">
   
-<h1 align="center"> DANNY JOSÉ JIMÉNEZ GUTIÉRREZ  
-_Ingeniero en Sistemas_</h1>
+<h1 align="center"> DANNY JOSÉ JIMÉNEZ GUTIÉRREZ  </h1>
+<h1>_Ingeniero en Sistemas_</h1>
 
 [![📞 0424-281-44-55](https://img.shields.io/badge/Phone-0424--281--44--55-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:04242814455)
 [![✉️ dennaly88@gmail.com](https://img.shields.io/badge/Email-dennály88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennaly88@gmail.com)
