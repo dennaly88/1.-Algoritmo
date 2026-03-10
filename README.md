@@ -1,4 +1,4 @@
-<h1 align="center">Danny Jimenez Ingeniero en Informatica</h1>
+<h1 align="center">Danny Jimenez Ingeniero en Informática</h1>
 
 ###
 
@@ -32,12 +32,6 @@
 </div>
 
 ###
-
-
-
-
-
-
 
 
 
