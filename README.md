@@ -43,13 +43,6 @@
 
 ###
 
-
-
-
-
-
-
-
 _____________________________________________________________________________________________________________________________________________________________
 🎓 Curso Completo: Algoritmos y Pseudocódigo
 Institución: DEV Development
@@ -57,32 +50,35 @@ Ubicación: CUA, Estado Miranda
 Año: 2025
 ______________________________________________________________________________________________________________________________________________________________
 
-Certificado completo en fundamentos de programación estructurada. Dominio de lógica algorítmica para resolver problemas computacionales de manera eficiente.
 
 📋 Material Cubierto
+__________________________
 
-1. Básico - Fundamentos de algoritmos.
+☑️ 1. Básico - Fundamentos de algoritmos.      
 
-2. Variables - Declaración y tipos de datos.
+☑️ 2. Variables - Declaración y tipos de datos.
 
-3. Lectura y Escritura - Entrada/salida de datos.
+☑️ 3. Lectura y Escritura - Entrada/salida de datos.
 
-4. Condicionales Simples - Estructuras IF básicas.
+☑️ 4. Condicionales Simples - Estructuras IF básicas.
 
-5. Condicionales Dobles - IF-ELSE.
+☑️ 5. Condicionales Dobles - IF-ELSE.
 
-6. Condicionales Múltiples - IF anidados.
+☑️ 6. Condicionales Múltiples - IF anidados.
 
-7. Switcher - Estructuras de selección múltiple.
+☑️ 7. Switcher - Estructuras de selección múltiple.
 
-8. Ciclo Para - Bucles FOR controlados.
+☑️ 8. Ciclo Para - Bucles FOR controlados.
 
-9. Ciclo Mientras - WHILE condicional.
+☑️ 9. Ciclo Mientras - WHILE condicional.
 
-10. Ciclo Repetir - DO-WHILE.
+☑️ 10. Ciclo Repetir - DO-WHILE.
 
-11. Listas - Manejo de arreglos unidimensionales.
+☑️ 11. Listas - Manejo de arreglos unidimensionales.
 
-12. Matrices - Arreglos bidimensionales.  
+☑️ 12. Matrices - Arreglos bidimensionales.  
+___________________________________________________________________________________________________________________________________________________________________
+
+
 
 ***********************************************************************
