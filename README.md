@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<h1 align="center">**DANNY JOSÉ JIMÉNEZ GUTIÉRREZ**  </h1>
+<h1 align="center"> DANNY JOSÉ JIMÉNEZ GUTIÉRREZ  </h1>
 _Ingeniero en Sistemas_
 
 [![📞 0424-281-44-55](https://img.shields.io/badge/Phone-0424--281--44--55-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:04242814455)
@@ -10,7 +10,7 @@ _Ingeniero en Sistemas_
 
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
